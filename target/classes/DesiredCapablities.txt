@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "11",
+  "appium:deviceName": "MimuAndroidEmulator",
+  "appium:automationName": "UiAutomator2",
+  "appium:app": "C:\\Users\\mimu.dutta\\eclipse-workspace\\AppiumFirstProject\\src\\main\\java\\ApiDemos-debug.apk"
+}
